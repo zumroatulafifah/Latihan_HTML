@@ -1,0 +1,17 @@
+div {
+	width: 200px;
+	box-sizing: border-box;
+	}
+.satu {
+	width: 400px;
+	background-color: violet;
+	margin-bottom: 10px;
+	padding: 30px;
+	border: 10px dashed olivedrab;
+}
+.dua {
+	width: 400px;
+	background-color: lightgoldenrodyellow;
+	padding: 30px;
+	border: 10px dotted blue;
+}

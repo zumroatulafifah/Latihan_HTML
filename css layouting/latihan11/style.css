@@ -1,0 +1,16 @@
+.container {
+	width: 600px;
+	background-color: white;
+	border: 3px solid black;
+	margin: auto;
+	padding: 10px;
+}
+img {
+	width: 300px;
+	float: right;
+	margin: 5px;
+}
+
+.clear {
+	clear: right;
+}
