@@ -1,0 +1,11 @@
+h1 {
+	color: green;
+}
+
+ul#sarapan li {
+	color: purple;
+}
+
+ul#sarapan li.favorit {
+	color: red;
+}

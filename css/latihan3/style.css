@@ -1,0 +1,12 @@
+h1{
+	color: #abcabc;
+	font-size: 50px;
+	text-align: center;
+	text-decoration: underline;
+	text-transform: uppercase;
+}
+
+p{
+	text-align: justify;
+	word-spacing: 10px;
+}

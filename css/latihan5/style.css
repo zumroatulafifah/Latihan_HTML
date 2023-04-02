@@ -1,0 +1,30 @@
+body{
+	background-color: lightblue;
+}
+
+h1,h2{
+	color: purple;
+	font-family: arial;
+}
+
+ul li a{
+	color: red;
+} 
+
+ol li{
+	color: green;
+}
+
+.yellow{
+	color: purple;
+}
+
+.cetak-tebal{
+	font-weight: bold;
+}
+
+#tayo{
+	color: blue;
+}
+
+
