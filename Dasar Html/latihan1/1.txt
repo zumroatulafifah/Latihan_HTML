@@ -1,0 +1,12 @@
+<!doctype html>
+<html>
+<head>
+  <title>pemograman web1</title>
+</head>
+
+<body>
+  <p>hello world!</p>
+  
+  <p>selamat datang afifah semoga berhasil</p>
+</body>
+</html>
